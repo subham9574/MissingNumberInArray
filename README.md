@@ -1,1 +1,2 @@
-# MissingNumberInArray
+# MissingNumberInArray 
+Checking for missing number
